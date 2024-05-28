@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on ScaleAI
 
 <div align="center">
-  <img src="https://stats.quine.sh/d4lion/github?theme=light" height="300px" />
-  <img src="https://stats.quine.sh/d4lion/topics-over-time?theme=light" height="300px"/>
+  <img src="https://stats.quine.sh/d4lion/github?theme=light" height="200px" />
+  <img src="https://stats.quine.sh/d4lion/topics-over-time?theme=light" height="200px"/>
   
 </div>
 
