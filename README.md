@@ -8,9 +8,9 @@ I am a software and hardware development enthusiast, I specialize in creating pr
 
 *   🌍  I'm based in Colombia
 *   🖥️  See my portfolio at [here](http://daliondev.online)
-*   🧠  I'm learning Angular.js
+*   🧠  I'm learning SvelteKit
 *   🤝  I'm open to collaborating on python projects
-*   ⚡  I like cloud computing because, I´m always in the clouds ☁️
+*   ⚡  I´m always in the clouds ☁️
 
 
 ## Technologies 💻
