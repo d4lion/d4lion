@@ -1,16 +1,15 @@
 <h1 align="center">
-  Hi👋, i´m <a href="https://daliondev.online" target="_blank">Danniel</a>
+  Hi👋, i´m <a href="https://d4lion.site" target="_blank">Danniel</a>
 </h1>
 
 
 ![Banner hamburguesa fondo rojo](https://github.com/d4lion/d4lion/assets/111100025/a016b774-8e1b-4388-9771-89800920e2e2)
-I am a software and hardware development enthusiast, I specialize in creating projects based on languages such as python to solve everyday problems, in addition to making use of web scrapping tools and Cloud Computing.
+I am a software development enthusiast, I specialize in creating projects based on languages such as python to solve everyday problems, in addition to making use of web scrapping tools and Cloud Computing.
 
 *   🌍  I'm based in Colombia
 *   🖥️  See my portfolio at [here](http://d4lion.site)
-*   🧠  I'm learning SvelteKit
-*   🤝  I'm open to collaborating on python projects
-*   ⚡  I´m always in the clouds ☁️
+*   🧠  I'm learning AWS
+*   🤝  I'm open to collaborating
 
 
 ## Technologies 💻
