@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi👋, i´m <a href="https://d4lion.site" target="_blank">Danniel</a>
+  Hi👋, i´m <a href="https://linkedin.com/in/dmartinezta" target="_blank">Danniel</a>
 </h1>
 
 
